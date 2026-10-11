@@ -185,7 +185,7 @@ https://github.com/AY2627S1-CS2103T-T16-2/tp/tree/master
 **Product:** [TuitionBook](https://ay2627s1-cs2103t-t16-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2627S1-CS2103T-T16-3/tp/tree/master
-**Product:** [InsuranceBook](https://ay2627s1-cs2103t-t16-3.github.io/tp)
+**Product:** [HR Book](https://ay2627s1-cs2103t-t16-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2627S1-CS2103T-T16-4/tp/tree/master
 **Product:** [GitMate](https://ay2627s1-cs2103t-t16-4.github.io/tp)
